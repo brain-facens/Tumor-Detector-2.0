@@ -1,1 +1,1 @@
-# **Tumor Detector 3.0**
+<img src="docs/TumorDetector-Logo.png">
